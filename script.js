@@ -101,4 +101,10 @@ var textTrim = "   ngetes    ";
 console.log(textTrim.trim());
 console.log(textTrim.trimEnd());//ngehapus whitespace setelah text
 console.log(textTrim.trimStart());//menghapus whitespace sebelum text
+/*
+materi git
+*/
+//git push -u -> u=upstream, biar nanti gag ngetik dua kali
+//git fetch -> untuk mengupdate kondisi yang ada di remote
+//git pull -> mengambil yang ada di remote
 
